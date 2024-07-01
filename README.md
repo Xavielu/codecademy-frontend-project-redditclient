@@ -72,6 +72,7 @@ This is the wireframe I used for the project. It's simple, but the website is es
 
 Include a wireframe or UI mockup of your project here. This helps visualize the project's structure and design goals. You can embed an image or provide a link to your wireframe file.
 ## Preview
+Ignore the bookmarks I do not use edge I use chrome these are old lol
 ![Screenshot 2024-07-01 025839](https://github.com/Xavielu/codecademy-frontend-project-redditclient/assets/167581214/491549dc-476e-4d6e-8dcb-480d1de79ff8)
 
 
