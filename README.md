@@ -48,7 +48,7 @@ To get started with this project, follow these steps:
 
 ## Usage
 
-Provide instructions on how to use your project, including any configuration steps or specific commands needed to run it. For example:
+feel free to look at this a a guide for your frontend project and make changes to fit your needs 
 
 ```bash
 npm start
@@ -67,19 +67,17 @@ If you experience problems running `npm start`, ensure:
 For further assistance, refer to the project's issue tracker or community forums.
 
 ## Wireframe
+This is the wireframe I used for the project. It's simple, but the website is essentially a copy of the one Codecademy provides. I followed the same design.
+![Screenshot 2024-07-01 013536](https://github.com/Xavielu/codecademy-frontend-project-redditclient/assets/167581214/e3dc9b45-b571-4d29-8eb4-4a98ddd526a6)
 
 Include a wireframe or UI mockup of your project here. This helps visualize the project's structure and design goals. You can embed an image or provide a link to your wireframe file.
 
 ## License
 
-Specify the project's license information here (e.g., MIT, Apache 2.0). If it's open-source, encourage collaboration and contributions.
+N/A 
 
 ---
 
 ### Additional Notes:
 
-- Customize the placeholders (`your-username`, `your-repo`, etc.) with your actual GitHub repository details.
-- Ensure your wireframe is accessible and provides a clear overview of your project's design.
-- Feel free to add more sections based on your project's specific needs, such as testing instructions, deployment guidelines, or acknowledgments.
-
-This template provides a structured approach to communicating essential information about your project, making it easier for users and collaborators to understand and contribute effectively. Adjust and expand sections as necessary to best showcase your project's unique aspects and requirements.
+N/A
