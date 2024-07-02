@@ -1,13 +1,22 @@
 
-Certainly! Here's a template for your project README.md file, including sections on project description, setup instructions, troubleshooting tips for npm, and a placeholder for your wireframe:
+
 
 ---
 
-# Project Name
+# Reddit client
 
 ## Description
 
-Briefly describe your project here. Include its purpose, features, and any other relevant information that would help users understand its context and usage.
+this projext is to show my skills in frontend development as a full-stack developer 
+1. key skills used:
+2. redux
+3. react
+4. async js
+5. nodejs
+6. node packages 
+7. react ui componets such as icons 
+8. redux toolkit
+
 
 ## Table of Contents
 
